@@ -1,5 +1,8 @@
-<nav class="navbar navbar-light bg-light justify-content-between">
-  <form class="form-inline">
+<nav class="navbar bg-light">
+  <div>
+    <%= link_to cocktails_path do %><i class="fas fa-cocktail"></i> <% end %>
+  </div>
+  <div>
     <button class="btn btn-sm btn-outline-secondary" type="button"><%= link_to 'Create a cocktail', new_cocktail_path %></button>
-  </form>
+  </div>
 </nav>

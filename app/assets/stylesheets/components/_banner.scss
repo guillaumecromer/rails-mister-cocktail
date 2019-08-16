@@ -1,11 +1,12 @@
 .home-banner {
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8));
   background-image: asset_url('bar_hipster.jpg');
   background-size: cover;
   background-position: center;
-  height: 600px;
-  color: #ff1053;
+  height: 500px;
+  color: #e8d2ae;
   text-align: center;
-  padding-top: 180px;
+  padding-top: 350px;
 }
 
 h1 {
@@ -19,8 +20,9 @@ h1 {
   background-position: center;
   height: 400px;
   color: #ff1053;
-  text-align: center;
-  padding-top: 140px;
+  text-align: left;
+  padding-top: 240px;
+  padding-left: 40px;
 }
 
 .cocktail-banner {
@@ -29,7 +31,8 @@ h1 {
   background-position: center;
   height: 400px;
   color: #ff1053;
-  text-align: center;
-  padding-top: 140px;
+  text-align: left;
+  padding-top: 240px;
+  padding-left: 40px;
 }
 
