@@ -1,0 +1,35 @@
+.home-banner {
+  background-image: asset_url('bar_hipster.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  color: #ff1053;
+  text-align: center;
+  padding-top: 180px;
+}
+
+h1 {
+  font-size: 96px;
+}
+
+
+.dose-banner {
+  background-image: asset_url('ingredients.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  color: #ff1053;
+  text-align: center;
+  padding-top: 140px;
+}
+
+.cocktail-banner {
+  background-image: asset_url('cocktail2.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  color: #ff1053;
+  text-align: center;
+  padding-top: 140px;
+}
+
